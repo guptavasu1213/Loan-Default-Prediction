@@ -1,1 +1,1 @@
-# credit-card-approval-detection
+# credit-card-approval-prediction
