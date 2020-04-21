@@ -1,4 +1,4 @@
-# loan-approval-prediction
+# loan-default-prediction
 
 ## Overview 
 
