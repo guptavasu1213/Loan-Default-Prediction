@@ -3,7 +3,9 @@
 ## Overview 
 
 This repository contains different approaches to predict loan defaults based on the past user history. There are different techniques and machine learning models implemented to analyze the results for a comparison as shown in the flow chart below. 
-![](https://github.com/guptavasu1213/credit-card-default-prediction/blob/master/FlowChart.png)
+<p align="center">
+  <img src="https://github.com/guptavasu1213/credit-card-default-prediction/blob/master/FlowChart.png">
+</p>
 
 A huge challenge with this dataset was the imbalancement of classes. For most machine learning algortihms to perform well, the class distribution should be around equal. However, the number of defaulters is only 8% of the entire dataset. There are a few techniques implemented like Oversampling and Undersampling to make the class ratio equal.  
 
